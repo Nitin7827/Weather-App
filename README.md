@@ -1,4 +1,4 @@
-# Weather_webApp
+# Weather_App
 
 ## I used open weather API to fetch data 
 
